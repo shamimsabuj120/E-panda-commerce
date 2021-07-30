@@ -19,3 +19,46 @@
     padding:9px 25px ;
     cursor: pointer;
 }
+
+
+.cat1{
+    background-image: linear-gradient(rgb(231, 228, 31) 10%,
+     rgb(238, 206, 28) 100% );
+     
+}
+.cat2{
+    background-image: linear-gradient(rgb(57, 132, 243) 10%,
+     rgb(50, 12, 218) 100% );
+     
+}
+.cat3{
+    background-image: linear-gradient(rgb(85, 215, 238) 10%,
+     rgb(10, 127, 143) 100% );
+     
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.categories h1{
+    color: white;
+
+}
+.categories img{
+    width: 100px;
+}
+.card{
+    border-radius: 10px;
+    border:none;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+#subscribe{
+    height: 300px;
+}
+footer{
+    text-align: center;
+}
